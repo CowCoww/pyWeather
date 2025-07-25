@@ -1,2 +1,2 @@
 @echo off
- python "D:\CODE\Python\Weather\main.py"
+ python "Your_path_to_this_folder\Weather\main.py"
